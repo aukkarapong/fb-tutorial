@@ -1,0 +1,32 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.cscku.ionic3.fblogin"
+    },
+    "cordova-plugin-facebook4": {
+      "APP_ID": "2402016280117173",
+      "APP_NAME": "CSCKU IONIC3",
+      "PACKAGE_NAME": "com.cscku.ionic3.fblogin"
+    },
+    "cordova-plugin-ionic-webview": {
+      "PACKAGE_NAME": "com.cscku.ionic3.fblogin"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.cscku.ionic3.fblogin"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.cscku.ionic3.fblogin"
+    },
+    "ionic-plugin-keyboard": {
+      "PACKAGE_NAME": "com.cscku.ionic3.fblogin"
+    }
+  },
+  "dependent_plugins": {}
+}
